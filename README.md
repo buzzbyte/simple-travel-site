@@ -1,6 +1,6 @@
 # Simple Travel Site
 
-Simple example site for Year Up Pittsburgh's Learn to Code Section 1 with Pluralsight.
+Simple example site for Year Up's Learn to Code Section 1 with Pluralsight.
 
 ### Small note:
 
